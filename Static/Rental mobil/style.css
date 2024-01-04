@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.navbar-brand {
+    position: relative;
+    letter-spacing: 0.5em;
+    cursor: default;
+    text-transform: uppercase;
+}
+
+.navbar-brand span {
+    color: #555;
+    transition: 0.25s;
+}
+
+.navbar-brand:hover span {
+    color: #0f0;
+    text-shadow: 0 0 5px#0f0,
+    0 0 15px #0f0,
+    0 0 30;
+}
+
+img .carousel-item {
+height: 1vh;
+width: 5vh;
+}
+
+img .malas {
+    height: 170px;
+    width: 250px;
+}
