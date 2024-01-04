@@ -28,5 +28,5 @@
 Authored by Vito
 
 <div align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FHAFizh-script%2FTugas-Vito?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FHAFizh-script%2FTugas-Vito.svg?type=small"/></a>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FHAFizh-script%2FTugas-Vito?ref=badge_large&issueType=license" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FHAFizh-script%2FTugas-Vito.svg?type=large&issueType=license"/></a>
 </div>
