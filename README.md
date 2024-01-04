@@ -1,32 +1,29 @@
 <div align="center">
-  <img src="https://images5.alphacoders.com/911/911614.png" alt="BocchiBot" width="500" />
+  <img src= "https://images5.alphacoders.com/911/911614.png](https://smkmuh1-yog.sch.id/wp-content/uploads/2021/08/logo_135.png" alt="" width="500" />
 
-# **BocchiBot**
+# **Vito**
 
-> BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> Ini adalah sekumpulan Tugas Hafizh Vito
 >
 >
 
   <h3>Made with ❤️ by</h3>
 
-  <a href="https://github.com/SlavyanDesu"><img src="https://avatars.githubusercontent.com/u/28254882?v=4" height="128" width="128" /></a>
-  <a href="https://github.com/Piyoxz"><img src="https://avatars.githubusercontent.com/u/102013178?v=4" height="128" width="128" /></a>
-  <a href="https://github.com/VideFrelan"><img src="https://avatars.githubusercontent.com/u/76523793?v=4" height="128" width="128" /></a>
-  <a href="https://github.com/Sansekai"><img src="https://avatars.githubusercontent.com/u/34540627?v=4" height="128" width="128" /></a>
+  <a href="https://github.com/HAFizh-script"><img src="[https://avatars.githubusercontent.com/u/28254882?v=4](https://avatars.githubusercontent.com/u/72478122?v=4)" height="128" width="128" /></a>
 
-  <a href="https://github.com/SlavyanDesu"><img title="Author" src="https://img.shields.io/badge/Author-SlavyanDesu-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/HAFizh-script"><img title="Author" src="https://img.shields.io/badge/Author-Vito-purple.svg?style=for-the-badge&logo=github" /></a>
 
   <img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green"/>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate"/>
-  <img src="https://img.shields.io/github/repo-size/SlavyanDesu/BocchiBot" /> <br>
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot.svg?type=shield"/></a>
-  <a href="https://www.codefactor.io/repository/github/SlavyanDesu/BocchiBot"><img src="https://www.codefactor.io/repository/github/SlavyanDesu/BocchiBot/badge"/></a>
+  <img src="https://img.shields.io/github/repo-size/SlavyanDesu/Vito" /> <br>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSlavyanDesu%2FVito?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSlavyanDesu%2FVito.svg?type=shield"/></a>
+  <a href="https://www.codefactor.io/repository/github/SlavyanDesu/Vito"><img src="https://www.codefactor.io/repository/github/SlavyanDesu/Vito/badge"/></a>
 
-  <a href="https://github.com/SlavyanDesu/BocchiBot#requirements">Requirements</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#installation">Installation</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#features">Features</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#license">License</a>
+  <a href="https://github.com/SlavyanDesu/Vito#requirements">Requirements</a> •
+  <a href="https://github.com/SlavyanDesu/Vito#installation">Installation</a> •
+  <a href="https://github.com/SlavyanDesu/Vito#features">Features</a> •
+  <a href="https://github.com/SlavyanDesu/Vito#thanks-to">Thanks to</a> •
+  <a href="https://github.com/SlavyanDesu/Vito#license">License</a>
 </div>
 
 # Requirements
@@ -38,8 +35,8 @@
 # Installation
 ## 📝 Cloning the repo
 ```cmd
-> git clone https://github.com/SlavyanDesu/BocchiBot.git
-> cd BocchiBot
+> git clone https://github.com/SlavyanDesu/Vito.git
+> cd Vito
 ```
 
 ## ✍️ Editing the file
@@ -51,7 +48,7 @@ Edit the required value in `config.json`.
     "nao": "SAUCENAO-API-KEY",
     "openAiKey": "OPENAI-API-KEY",
     "authorStick": "@SlavyanDesu",
-    "packStick": "BocchiBot"
+    "packStick": "Vito"
 }
 ```
 
@@ -137,9 +134,9 @@ Type `.help` to your bot number to see the list of commands.
 * [`gamingrkp`](https://github.com/gamingrkp)
 
 # License
-**BocchiBot** © [SlavyanDesu](https://github.com/SlavyanDesu), released under the MIT License.
+**Vito** © [SlavyanDesu](https://github.com/SlavyanDesu), released under the MIT License.
 Authored and maintained by SlavyanDesu.
 
 <div align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot.svg?type=large" />
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSlavyanDesu%2FVito?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSlavyanDesu%2FVito.svg?type=large" />
 </div>
