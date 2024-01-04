@@ -18,7 +18,7 @@
 # Installation
 ## 📝 DILARANG MALING
 ```cmd
-Jangan dimaling lah bang, kan ini juga ga penting
+     Jangan dimaling lah bang, kan ini juga ga penting
 ```
 
 ## ✍️ SEKIAN TERIMAKASIH
